@@ -26,7 +26,7 @@ define('DB_NAME', 'wp101intra');
 define('DB_USER', 'wp101intra');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'wp101dkintra!');
+define('DB_PASSWORD', 'wp101intra!');
 
 /** MySQL hostname */
 define('DB_HOST', '10.100.51.14');
